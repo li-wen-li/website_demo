@@ -25,6 +25,7 @@ params:
   profilePicture: images/profile.jpg
   simpleAnalytics: {}
   googleAnalytics: G-M9S9TJ77JE
+  gtagId: G-M9S9TJ77JE
   socialIcons:
     - icon: fab fa-linkedin
       title: Linkedin
