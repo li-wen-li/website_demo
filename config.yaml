@@ -1,7 +1,7 @@
 baseURL: https://example.com
 languageCode: en
 DefaultContentLanguage: en
-title: Website of Jane Doe
+title: Linear Fragility
 theme: anatole
 summarylength: 10
 enableEmoji: yes
@@ -10,10 +10,10 @@ pygmentsUseClasses: yes
 pygmentsCodeFences: yes
 pygmentsCodefencesGuessSyntax: yes
 params:
-  author: Jane Doe
+  author: Liwen Li
   customCss: []
   customJs: []
-  description: Call me Jane
+  description: Call me Li
   doNotLoadAnimations: no
   favicon: favicons/
   images: images/site-feature-image.png
@@ -24,6 +24,7 @@ params:
     use: katex
   profilePicture: images/profile.jpg
   simpleAnalytics: {}
+  googleAnalytics: G-M9S9TJ77JE
   socialIcons:
     - icon: fab fa-linkedin
       title: Linkedin
@@ -32,6 +33,9 @@ params:
       title: GitHub
       url: https://github.com/lxndrblz/anatole/
     - icon: fab fa-instagram
+      title: instagram
+      url: https://www.instagram.com/
+    - icon: fab fa-weixin
       title: instagram
       url: https://www.instagram.com/
     - icon: fas fa-envelope
